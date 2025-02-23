@@ -1,5 +1,5 @@
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
-
+<h1>Hi, I'm Randy, an IT Professional</a>☺</h1>
+https://www.linkedin.com/in/randy-gentry-82a685110/
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
